@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kbdsbx/brush-kbdsbx.github.io/issues"
   },
-  "homepage": "https://github.com/kbdsbx/brush-kbdsbx.github.io#readme"
+  "homepage": "https://github.com/kbdsbx/brush-kbdsbx.github.io#readme",
+  "dependencies": {
+    "less-brush": "^0.1.3"
+  }
 }
